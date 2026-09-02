@@ -51,6 +51,16 @@ Learn more:
 - [INSTRUCTIONS.md](https://github.com/nodalfold/commit-curation/blob/main/INSTRUCTIONS.md) — complete installation, configuration and usage guide.
 - [CHEATSHEET.md](https://github.com/nodalfold/commit-curation/blob/main/CHEATSHEET.md) — quick reference for commands and profiles.
 
+### [`digital-outlet-components`](https://github.com/nodalfold/digital-outlet-components)
+
+A React component library for digital media products, built with TypeScript, Tailwind CSS and Storybook. It provides reusable interface primitives, shared design tokens and a documented foundation for building consistent editorial experiences.
+
+Learn more:
+
+- [README.md](https://github.com/nodalfold/digital-outlet-components/blob/main/README.md) — overview and getting started.
+- [INSTRUCTIONS.md](https://github.com/nodalfold/digital-outlet-components/blob/main/INSTRUCTIONS.md) — installation, development workflow and contribution guidance.
+- [CHEATSHEET.md](https://github.com/nodalfold/digital-outlet-components/blob/main/CHEATSHEET.md) — quick reference for development and repository commands.
+
 ## Still mapping what comes next
 
 Nodalfold is building a space for projects that connect technology, media and knowledge. Some answers will take the form of software; others, new ways to research, communicate or automate.
